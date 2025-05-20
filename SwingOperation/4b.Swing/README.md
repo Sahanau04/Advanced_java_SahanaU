@@ -4,4 +4,3 @@ event handling mechanism with addActionListener
 
 [Solution link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/SwingOperation/4b.Swing/CountryButtonDemo1.png)
-(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/SwingOperation/4b.Swing/CountryButtonDemo1.png)

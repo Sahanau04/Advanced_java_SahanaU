@@ -4,3 +4,4 @@ visited this page n times ( n = number of your visit ) and demonstrate the expir
 
 [Solution link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/Servlet_Programs/6b.Create_Cookie/Create_Cookie.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/Servlet_Programs/6b.Create_Cookie/Create_Cookie1.png)

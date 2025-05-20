@@ -3,3 +3,4 @@ procedure.
 
 [Solution link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/Servlet_Programs/6a.Factorial_servlet/Factorial_Servlet.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/Servlet_Programs/6a.Factorial_servlet/Factorial_Servlet1.png)

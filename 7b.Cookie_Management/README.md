@@ -5,3 +5,4 @@ it has to go to show the active cookie list when you press the link go to the ac
 [Solution link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/7b.Cookie_Management/Cookie_Management.png)
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/7b.Cookie_Management/Cookie_Management1.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/7b.Cookie_Management/Cookie_Management2.png)

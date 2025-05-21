@@ -5,3 +5,4 @@ results respectively
 [Solution link]->s
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8d.Update_Employee/Update_Employee.png)
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8d.Update_Employee/After_Update.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8d.Update_Employee/Employee_Records.png)

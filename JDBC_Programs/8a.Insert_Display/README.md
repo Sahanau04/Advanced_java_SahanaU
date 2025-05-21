@@ -4,3 +4,4 @@ JSP to get the fields and display the results respectively
 
 [Solution_link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8a.Insert_Display/InsertCoffee.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8a.Insert_Display/CoffeAdded.png)

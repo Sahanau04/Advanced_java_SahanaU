@@ -4,5 +4,5 @@ Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary
 HTML and JSP to get the fields and display the results respectively
 
 [Solution Link]->
-
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8c.Append_Employee/Insert_Employee.png)
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8c.Append_Employee/Employee_Added.png)

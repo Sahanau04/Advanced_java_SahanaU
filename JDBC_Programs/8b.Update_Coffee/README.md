@@ -5,3 +5,4 @@ existing coffee product in the table with its id. [Create a table coffee with fi
 [Solution link]->
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8b.Update_Coffee/update.png)
 (https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8b.Update_Coffee/After_Update.png)
+(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/JDBC_Programs/8b.Update_Coffee/display.png)

@@ -4,6 +4,6 @@
 
 
 
-[4.DisplayPostions o/p link]->(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/1c.LinkedList_Programs/4.DisplayPositions.png)
+[4.DisplayPositions o/p link]->(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/1c.LinkedList_Programs/4.DisplayPositions.png)
 
-[5.DisplayPosition o/p link]->(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/1c.LinkedList_Programs/5.SwapElements.png)
+[5.Swapelements o/p link]->(https://github.com/Sahanau04/Advanced_java_SahanaU/blob/main/1c.LinkedList_Programs/5.SwapElements.png)
